@@ -1,0 +1,29 @@
+﻿@using LiquorStoreFinalProject.Areas.Admin.ViewModels.Discount;
+@model CreateDiscountVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container my-5">
+    <h1>Create Discount</h1>
+    <form asp-controller="Discount" asp-action="CreateDiscount" method="post" enctype="multipart/form-data">
+        <div class="form-group mt-3">
+            <label for="Name">Name</label>
+            <input asp-for="Name" class="form-control" name="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-3">
+            <label for="Percent">Percent</label>
+            <input asp-for="Percent" class="form-control" name="Percent" />
+            <span asp-validation-for="Percent" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-3">
+            <button type="submit" class="btn btn-success">Create</button>
+        </div>
+    </form>
+
+</div>
+
+

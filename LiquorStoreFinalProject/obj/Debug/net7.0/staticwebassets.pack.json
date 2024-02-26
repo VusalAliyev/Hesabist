@@ -1,0 +1,1773 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LiquorStoreFinalProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LiquorStoreFinalProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\css\\main.css",
+      "PackagePath": "staticwebassets\\admin\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\product.js",
+      "PackagePath": "staticwebassets\\admin\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\slider.js",
+      "PackagePath": "staticwebassets\\admin\\js\\slider.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\css\\fonts\\lgd641.html",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\lgd641.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\css\\plugins\\plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\css\\vendor\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\css\\vendor\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\css\\vendor\\lightbox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-free\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\fonts\\slickd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slickd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\about-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\about-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\about-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\about-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\about-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\about-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\about-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\about-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\designer-avatar.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\designer-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\finding-us-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\finding-us-01.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\sun-01.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\sun-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\about\\vector.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-28.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-29.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-30.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\paralax\\bg-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\paralax\\bg-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\paralax\\bg-image-3-overlay.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\paralax\\bg-image-3-overlay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\paralax\\bg-image-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\paralax\\bg-image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\paralax\\bg-image-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\paralax\\bg-image-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\paralax\\bg-image-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\paralax\\bg-image-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\paralax\\bg-image-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\paralax\\bg-image-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\paralax\\bg-image-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\paralax\\bg-image-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\blog\\bl-big-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\bl-big-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\blog\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\blog\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\blog\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\blog\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\blog\\blog-single-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-single-01.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\brand-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-01.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\brand-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-02.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\brand-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-03.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\brand-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-04.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\brand-05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-05.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\brand-06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-06.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\client\\image-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\image-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\client\\image-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\image-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\client\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\client\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\client\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\client\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\client\\testimonial-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\client\\testimonial-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\client\\testimonial-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\client\\testimonial-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\client\\testimonial-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\featured\\corporate-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured\\corporate-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\featured\\corporate-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured\\corporate-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\featured\\corporate-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured\\corporate-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\icon-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\icon-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\icon-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\lgd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\lgd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\lgd641.eot",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\lgd641.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\lgd641.ttf",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\lgd641.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\lgd641.woff",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\lgd641.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\slick-arrow-left-small.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\slick-arrow-left-small.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\slick-arrow-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\slick-arrow-left.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\slick-arrow-right-small.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\slick-arrow-right-small.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\slick-arrow-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\slick-arrow-right.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\video-play.html",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\video-play.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\vimeo-play.html",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\vimeo-play.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\icons\\youtube-play.html",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\youtube-play.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\logo\\big-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\big-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\logo\\logo-all-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-all-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\logo\\logo-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\logo\\logo-symbol-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-symbol-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\pattern-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\big\\dp-big--portfolio-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\big\\dp-big--portfolio-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\big\\dp-big--portfolio-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\big\\dp-big--portfolio-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\big\\dp-big--portfolio-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\big\\dp-big--portfolio-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\big\\dp-big--portfolio-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\big\\dp-big--portfolio-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\big\\dp-big--portfolio-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\big\\dp-big--portfolio-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\big\\dp-big--portfolio-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\big\\dp-big--portfolio-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\dp-portfolio-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\dp-portfolio-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\dp-portfolio-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\dp-portfolio-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\dp-portfolio-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\dp-portfolio-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\dp-portfolio-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\dp-portfolio-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\dp-portfolio-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\dp-portfolio-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\dp-portfolio-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\dp-portfolio-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-big-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-big-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-big-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-big-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-big-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-big-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-static-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-static-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-static-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-static-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-static-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-static-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-static-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-static-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-static-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-static-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-static-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-static-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-static-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-static-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-static-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-static-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-static-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-static-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\portfolio-static-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\portfolio-static-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\related-image-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\related-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\portfolio\\related-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio\\related-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\about.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\blog-details.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\blog-details.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\blog-list.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\blog-list.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\business.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\business.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\coming-soon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\coming-soon.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\corporate-business.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\corporate-business.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\creative-agency.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\creative-agency.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\creative-landing.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\creative-landing.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\creative-portfolio.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\creative-portfolio.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\dark-main-demo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\dark-main-demo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\dark-personal-portfolio-landing.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\dark-personal-portfolio-landing.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\demo-home.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\demo-home.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\designer-portfolio.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\designer-portfolio.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\digital-agency.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\digital-agency.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\homeparticles.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\homeparticles.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\paralax.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\paralax.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\personal-portfolio-landing.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\personal-portfolio-landing.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\personal-portfolio.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\personal-portfolio.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\portfolio-details.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\portfolio-details.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\portfolio-home.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\portfolio-home.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\portfolio.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\portfolio.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\service-details.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\service-details.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\service.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\service.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\startup.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\startup.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\preview\\studio-agency.png",
+      "PackagePath": "staticwebassets\\assets\\images\\preview\\studio-agency.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\service\\service-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service\\service-01.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\service\\service-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service\\service-02.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\service\\video.mp4",
+      "PackagePath": "staticwebassets\\assets\\images\\service\\video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\team\\team-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\team\\team-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\team\\team-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\team\\team-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\team\\team-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\team\\team-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\team\\team-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\team\\team-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\plugins\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\vendor\\jquery-one-page-nav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-one-page-nav.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\vendor\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\vendor\\jquery.style.switcher.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.style.switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\vendor\\js.cookie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\js.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\vendor\\masonry.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\vendor\\modernizr.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\vendor\\particles.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\particles.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\vendor\\stellar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\stellar.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\js\\vendor\\stickysidebar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\stickysidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\R.jfif",
+      "PackagePath": "staticwebassets\\photos\\R.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\about.jpg",
+      "PackagePath": "staticwebassets\\photos\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\photos\\bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\bg_4.jpg",
+      "PackagePath": "staticwebassets\\photos\\bg_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\c972f3f0-21d0-4887-ba30-fd91ad4f56b6image_4.jpg",
+      "PackagePath": "staticwebassets\\photos\\c972f3f0-21d0-4887-ba30-fd91ad4f56b6image_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\image_1.jpg",
+      "PackagePath": "staticwebassets\\photos\\image_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\image_2.jpg",
+      "PackagePath": "staticwebassets\\photos\\image_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\image_3.jpg",
+      "PackagePath": "staticwebassets\\photos\\image_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\image_4.jpg",
+      "PackagePath": "staticwebassets\\photos\\image_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\image_5.jpg",
+      "PackagePath": "staticwebassets\\photos\\image_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\image_6.jpg",
+      "PackagePath": "staticwebassets\\photos\\image_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\kind-1.jpg",
+      "PackagePath": "staticwebassets\\photos\\kind-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\kind-2.jpg",
+      "PackagePath": "staticwebassets\\photos\\kind-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\kind-3.jpg",
+      "PackagePath": "staticwebassets\\photos\\kind-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\kind-4.jpg",
+      "PackagePath": "staticwebassets\\photos\\kind-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\kind-5.jpg",
+      "PackagePath": "staticwebassets\\photos\\kind-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\kind-6.jpg",
+      "PackagePath": "staticwebassets\\photos\\kind-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\photos\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-10.jpg",
+      "PackagePath": "staticwebassets\\photos\\prod-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-11.jpg",
+      "PackagePath": "staticwebassets\\photos\\prod-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\photos\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\photos\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\photos\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\photos\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-6.jpg",
+      "PackagePath": "staticwebassets\\photos\\prod-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-7.jpg",
+      "PackagePath": "staticwebassets\\photos\\prod-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-8.jpg",
+      "PackagePath": "staticwebassets\\photos\\prod-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-9.jpg",
+      "PackagePath": "staticwebassets\\photos\\prod-9.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LiquorStoreFinalProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.LiquorStoreFinalProject.props",
+      "PackagePath": "build\\LiquorStoreFinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.LiquorStoreFinalProject.props",
+      "PackagePath": "buildMultiTargeting\\LiquorStoreFinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.LiquorStoreFinalProject.props",
+      "PackagePath": "buildTransitive\\LiquorStoreFinalProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
