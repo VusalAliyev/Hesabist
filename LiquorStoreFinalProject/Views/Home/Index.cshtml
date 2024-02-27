@@ -257,7 +257,7 @@
                                         <p>@product.Category.Name</p>
                                         <h4><a href="portfolio-details.html">@product.Name</a></h4>
                                         <div class="portfolio-button">
-                                            <a class="rn-btn" href="portfolio-details.html">Details</a>
+                                            <a class="rn-btn" href="@Url.Action("ProductDetails", "Products", new { id = product.Id })">Details</a>
                                         </div>
                                     </div>
                                 </div>
