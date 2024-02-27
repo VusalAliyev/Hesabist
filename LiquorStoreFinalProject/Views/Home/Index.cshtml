@@ -194,13 +194,13 @@
 
                             <div class="col-lg-4 col-md-6 col-sm-6 col-12 mt--30">
                                 <div class="single-service service__style--2 bg-color-gray">
-                                    <a href="service-details.html">
+                                    <a href="@Url.Action("FilterProductsByCategory", "Products", new { categoryId = category.Id })">
                                         <div class="service">
                                             <div class="icon">
                                                 <i data-feather="cast"></i>
                                             </div>
                                             <div class="content">
-                                                <h3 class="title">@category.Name</h3>
+                                                <h3  class="title">@category.Name</h3>
                                                 <p>
                                                     I throw myself down among the tall grass by the stream as I lie close to
                                                     the earth.
