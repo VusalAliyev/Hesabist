@@ -43,6 +43,7 @@ namespace LiquorStoreFinalProject.Controllers
 
             ProductDetailVM productDetailVM = new()
             {
+                //CategoryName = product.CategoryName,
                 Id = product.Id,
                 Name = product.Name,
                 Description = product.Description,
