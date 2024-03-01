@@ -13,6 +13,7 @@ namespace LiquorStoreFinalProject.Controllers
     {
         private readonly AppDbContext _context;
         private readonly IProductService _productService;
+        private readonly ICategoryService _categoryService;
         private readonly IWebHostEnvironment _webHostEnvironment;
         public Products(AppDbContext context, IProductService productService, IWebHostEnvironment webHostEnvironment)
         {
@@ -38,12 +39,13 @@ namespace LiquorStoreFinalProject.Controllers
             if (id is null) return BadRequest();
 
             Product product = await _context.Products.FirstOrDefaultAsync(x => x.Id == id);
+            var category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == product.CategoryId);
 
             if (product is null) return NotFound();
 
             ProductDetailVM productDetailVM = new()
             {
-                //CategoryName = product.CategoryName,
+                CategoryName = category.Name,
                 Id = product.Id,
                 Name = product.Name,
                 Description = product.Description,
