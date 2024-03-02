@@ -821,6 +821,14 @@
       "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-30.jpg"
     },
     {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-31.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-32.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-32.jpg"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\bg\\bg-image-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-4.jpg"
     },
@@ -1653,6 +1661,10 @@
       "PackagePath": "staticwebassets\\photos\\R.jfif"
     },
     {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\WhatsApp Image 2023-10-16 at 22.55.39_44200210.jpg",
+      "PackagePath": "staticwebassets\\photos\\WhatsApp Image 2023-10-16 at 22.55.39_44200210.jpg"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\about.jpg",
       "PackagePath": "staticwebassets\\photos\\about.jpg"
     },
@@ -1759,6 +1771,26 @@
     {
       "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\prod-9.jpg",
       "PackagePath": "staticwebassets\\photos\\prod-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\wallpaperflare.com_wallpaper (1).jpg",
+      "PackagePath": "staticwebassets\\photos\\wallpaperflare.com_wallpaper (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\wallpaperflare.com_wallpaper (10).jpg",
+      "PackagePath": "staticwebassets\\photos\\wallpaperflare.com_wallpaper (10).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\wallpaperflare.com_wallpaper (6).jpg",
+      "PackagePath": "staticwebassets\\photos\\wallpaperflare.com_wallpaper (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\wallpaperflare.com_wallpaper (7).jpg",
+      "PackagePath": "staticwebassets\\photos\\wallpaperflare.com_wallpaper (7).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\wallpaperflare.com_wallpaper (8).jpg",
+      "PackagePath": "staticwebassets\\photos\\wallpaperflare.com_wallpaper (8).jpg"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LiquorStoreFinalProject.Microsoft.AspNetCore.StaticWebAssets.props",
