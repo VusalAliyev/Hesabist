@@ -1641,6 +1641,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\1 (1).jpeg",
+      "PackagePath": "staticwebassets\\photos\\1 (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\1.jpeg",
+      "PackagePath": "staticwebassets\\photos\\1.jpeg"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\R.jfif",
       "PackagePath": "staticwebassets\\photos\\R.jfif"
     },

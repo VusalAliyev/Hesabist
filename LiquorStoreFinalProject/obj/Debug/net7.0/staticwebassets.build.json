@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3dUT6KrnuzURRKMkYWdPmXOxX5gGGxdj1Q7N1RmRutQ=",
+  "Hash": "asSi/xBTBwGL4o1V4AutaMn4RVommSqoy1bzcggLNFA=",
   "Source": "LiquorStoreFinalProject",
   "BasePath": "_content/LiquorStoreFinalProject",
   "Mode": "Default",
@@ -7002,6 +7002,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\1 (1).jpeg",
+      "SourceId": "LiquorStoreFinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\",
+      "BasePath": "_content/LiquorStoreFinalProject",
+      "RelativePath": "photos/1 (1).jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\1 (1).jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\1.jpeg",
+      "SourceId": "LiquorStoreFinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\",
+      "BasePath": "_content/LiquorStoreFinalProject",
+      "RelativePath": "photos/1.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photos\\1.jpeg"
     },
     {
       "Identity": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\about.jpg",

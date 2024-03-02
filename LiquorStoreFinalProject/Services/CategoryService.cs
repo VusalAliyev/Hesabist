@@ -65,7 +65,7 @@ namespace LiquorStoreFinalProject.Services
         public async Task UpdateAsync(UpdateCategoryVM updateCategoryVM)
         {
             var updatedCategory = _context.Categories.FirstOrDefault(p => p.Id == updateCategoryVM.Id);
-            if (updateCategoryVM.ImageURL != null)
+            if (updateCategoryVM.Image != null)
             {
                 var FileUniqueName = updateCategoryVM.Image.FileName;
 

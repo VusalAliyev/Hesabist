@@ -145,7 +145,7 @@ namespace LiquorStoreFinalProject.Services
         {
             var updatedProduct = _context.Products.FirstOrDefault(p => p.Id == updateProductVM.Id);
 
-            if (updateProductVM.ImageURL != null)
+            if (updateProductVM.Image != null)
             {
                 var FileUniqueName = updateProductVM.Image.FileName;
 
