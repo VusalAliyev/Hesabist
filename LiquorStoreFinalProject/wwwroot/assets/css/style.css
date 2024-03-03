@@ -57,7 +57,7 @@
 	|	|___ about 
 	|	|___ portfolio-details
 	|	|___ service-details
-	|	|___ preview
+	|	|___ preview rn-page-title-area pt--120 pb--190 pb_md--100 pb_sm--100 bg_image bg_image--5
 	|
 	|
 	|___ END STYLESHEET INDEXING
@@ -3848,9 +3848,9 @@ font-family: 'Poppins', sans-serif;
   background-image: url(../images/bg/bg-image-4.jpg);
 }
 
-.bg_image--5 {
+/*.bg_image--5 {
   background-image: url(../images/bg/bg-image-5.jpg);
-}
+}*/
 
 .bg_image--6 {
   background-image: url(../images/bg/bg-image-6.jpg);

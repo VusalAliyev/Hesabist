@@ -59,7 +59,7 @@ namespace LiquorStoreFinalProject.Areas.Admin.Controllers
                 DiscountId= product.DiscountId,
                 Id= product.Id,
                 ImageURL=product.ImageURL,
-                Price=product.Price
+                Price=product.Price,
             };
             return View(updateProductVM);
         }

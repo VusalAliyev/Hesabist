@@ -52,6 +52,7 @@ namespace LiquorStoreFinalProject.Controllers
                 ImageURL = product.ImageURL,
                 CategoryId = product.CategoryId,
                 Price = product.Price,
+                BackgroundImageURL=product.BackgroundImageURL
             };
 
             return View(productDetailVM);

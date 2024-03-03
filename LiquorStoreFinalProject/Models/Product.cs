@@ -10,5 +10,6 @@
         public int DiscountId { get; set; }
         public Discount Discount { get; set; }
         public string ImageURL { get; set; }
+        public string BackgroundImageURL { get; set; }
     }
 }

@@ -47,6 +47,27 @@ namespace LiquorStoreFinalProject.Services
                 createProductVM.Image.CopyTo(fs);
             }
 
+
+            var BackgroundFileUniqueName = createProductVM.BackgroundImage.FileName;
+
+            var BackgroundfolderPath = Path.Combine(_env.WebRootPath, "photos");
+            var BackgroundFullPath = Path.Combine(BackgroundfolderPath, BackgroundFileUniqueName);
+            string BackgroundrootFolder = @"wwwroot\";
+            string BackgroundreturnPath = BackgroundFullPath.Substring(BackgroundFullPath.IndexOf(BackgroundrootFolder, StringComparison.OrdinalIgnoreCase) + BackgroundrootFolder.Length).Replace("\\", "/");
+            if (!Directory.Exists(BackgroundfolderPath))
+            {
+                Directory.CreateDirectory(BackgroundfolderPath);
+            }
+
+            Directory.CreateDirectory(BackgroundfolderPath);
+
+            using (FileStream fs = new FileStream(BackgroundFullPath, FileMode.Create))
+            {
+                createProductVM.BackgroundImage.CopyTo(fs);
+            }
+
+
+
             var selectedCategory = _categoryService.GetById(createProductVM.CategoryId);
             var selectedDiscount = _discountService.GetById(createProductVM.DiscountId);
 
@@ -59,6 +80,7 @@ namespace LiquorStoreFinalProject.Services
                 Price = createProductVM.Price,
                 DiscountId = selectedDiscount.Id,
                 ImageURL = returnPath,
+                BackgroundImageURL = BackgroundreturnPath
             };
             _context.Products.Add(product);
 
@@ -164,12 +186,37 @@ namespace LiquorStoreFinalProject.Services
                 {
                     updateProductVM.Image.CopyTo(fs);
                 }
-                updatedProduct.ImageURL = returnPath;   
+                updatedProduct.ImageURL = returnPath;
+
+
+            }
+            if (updateProductVM.BackgroundImage != null)
+            {
+                var BackgroundFileUniqueName = updateProductVM.BackgroundImage.FileName;
+
+                var BackgroundfolderPath = Path.Combine(_env.WebRootPath, "photos");
+                var BackgroundFullPath = Path.Combine(BackgroundfolderPath, BackgroundFileUniqueName);
+                string BackgroundrootFolder = @"wwwroot\";
+                string BackgroundreturnPath = BackgroundFullPath.Substring(BackgroundFullPath.IndexOf(BackgroundrootFolder, StringComparison.OrdinalIgnoreCase) + BackgroundrootFolder.Length).Replace("\\", "/");
+                if (!Directory.Exists(BackgroundfolderPath))
+                {
+                    Directory.CreateDirectory(BackgroundfolderPath);
+                }
+
+                Directory.CreateDirectory(BackgroundfolderPath);
+
+                using (FileStream fs = new FileStream(BackgroundFullPath, FileMode.Create))
+                {
+                    updateProductVM.BackgroundImage.CopyTo(fs);
+                }
+                updatedProduct.BackgroundImageURL = BackgroundreturnPath;
+
+
             }
 
 
             updatedProduct.Name = updateProductVM.Name ?? updatedProduct.Name;
-            updatedProduct.CategoryId =updateProductVM.CategoryId;
+            updatedProduct.CategoryId = updateProductVM.CategoryId;
             updatedProduct.DiscountId = updateProductVM.DiscountId;
             updatedProduct.Description = updateProductVM.Description;
             updatedProduct.Price = updateProductVM.Price;

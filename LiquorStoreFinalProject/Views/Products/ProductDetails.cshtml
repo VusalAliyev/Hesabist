@@ -24,7 +24,11 @@
     <link rel="stylesheet" href="~/assets/css/vendor/lightbox.css">
     <link rel="stylesheet" href="~/assets/css/plugins/plugins.css">
     <link rel="stylesheet" href="~/assets/css/style.css">
-
+    <style>
+        .bg_image--5 {
+            background-image: url('@Url.Content("~/")@Model.BackgroundImageURL');
+        }
+    </style>
 </head>
     
 <body>
@@ -72,7 +76,7 @@
                                     <div class="row sercice-details-content pb--80 align-items-center">
                                         <div class="col-lg-6 col-12">
                                             <div class="thumb">
-                                                <img class="w-100" src="~/assets/images/service/service-01.png" alt="Service Images" />
+                                                <img class="w-100" src='@Url.Content($"~/{Model.ImageURL}")' " alt="Service Images" />
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-12">

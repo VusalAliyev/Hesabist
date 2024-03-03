@@ -8,7 +8,9 @@
         public int DiscountId { get; set; }
         public decimal Price { get; set; }
         public string Description { get; set; }
-        public string? ImageURL { get; set; }
         public IFormFile? Image { get; set; }
+        public string? ImageURL { get; set; }
+        public IFormFile? BackgroundImage { get; set; }
+        public string? BackgroundImageURL { get; set; }
     }
 }
