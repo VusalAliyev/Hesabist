@@ -905,6 +905,18 @@
       "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-single-01.png"
     },
     {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\DisneyLogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\DisneyLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\NetflixLogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\NetflixLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\Prime_logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\Prime_logo.png"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\brand-01.png",
       "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-01.png"
     },
@@ -927,6 +939,30 @@
     {
       "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\brand-06.png",
       "PackagePath": "staticwebassets\\assets\\images\\brand\\brand-06.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\duolingoLogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\duolingoLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\exxenLogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\exxenLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\pubgLogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\pubgLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\spotifyLogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\spotifyLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\udemyLogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\udemyLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\brand\\windowslogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brand\\windowslogo.png"
     },
     {
       "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\images\\client\\image-1.png",

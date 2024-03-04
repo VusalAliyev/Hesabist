@@ -13,5 +13,6 @@ namespace LiquorStoreFinalProject.ViewModels
         public string CategoryName { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
+        public string CategoryImageURL { get; set; }
     }
 }

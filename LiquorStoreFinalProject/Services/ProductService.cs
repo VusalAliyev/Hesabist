@@ -151,6 +151,7 @@ namespace LiquorStoreFinalProject.Services
                     DiscountName = p.Discount.Name,
                     Name = p.Name,
                     Price = p.Price,
+                    CategoryImageURL=p.Category.ImageURL
                 }).Skip((page - 1) * (int)pageResults)
                .Take((int)pageResults)
                .ToListAsync();
