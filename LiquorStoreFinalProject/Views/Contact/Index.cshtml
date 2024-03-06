@@ -123,11 +123,11 @@
                                     </p>
                                 </div>
                                 <div class="form-wrapper">
-                                    <form id="contact-form-active" action="https://rainbowit.net/html/trydo/mail.php" method="post">
-                                        <input name="name" type="text" placeholder="Your Name *" />
-                                        <input name="email" type="email" placeholder="Your email *">
-                                        <input name="subject" type="text" placeholder="Write a Subject">
-                                        <textarea name="message" placeholder="Your Message"></textarea>
+                                    <form id="contact-form-active" action="/Contact/SendEmail" method="post">
+                                        <input name="name" type="text" placeholder="Your Name *" required />
+                                        <input name="email" type="email" placeholder="Your email *" required>
+                                        <input name="subject" type="text" placeholder="Write a Subject" required>
+                                        <textarea name="message" placeholder="Your Message" required></textarea>
                                         <button type="submit" class="rn-button-style--2 btn_solid">
                                             <span>Send message</span>
                                         </button>
