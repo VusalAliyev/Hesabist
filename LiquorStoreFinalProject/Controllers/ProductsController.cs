@@ -48,7 +48,7 @@ namespace LiquorStoreFinalProject.Controllers
                 CategoryName = category.Name,
                 Id = product.Id,
                 Name = product.Name,
-                Description = product.Description,
+                Description =    product.Description,
                 ImageURL = product.ImageURL,
                 CategoryId = product.CategoryId,
                 Price = product.Price,

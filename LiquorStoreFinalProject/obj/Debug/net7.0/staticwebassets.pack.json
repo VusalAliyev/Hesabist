@@ -565,6 +565,14 @@
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\css\\styleAccount.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styleAccount.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\css\\styleBasket.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styleBasket.css"
+    },
+    {
       "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\assets\\css\\vendor\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\vendor\\bootstrap.min.css"
     },
@@ -1707,6 +1715,22 @@
     {
       "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\R.jfif",
       "PackagePath": "staticwebassets\\photos\\R.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\Screenshot (122).png",
+      "PackagePath": "staticwebassets\\photos\\Screenshot (122).png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\Screenshot (40).png",
+      "PackagePath": "staticwebassets\\photos\\Screenshot (40).png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\WIN_20230922_09_39_28_Pro.jpg",
+      "PackagePath": "staticwebassets\\photos\\WIN_20230922_09_39_28_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\WIN_20240225_19_04_20_Pro.jpg",
+      "PackagePath": "staticwebassets\\photos\\WIN_20240225_19_04_20_Pro.jpg"
     },
     {
       "Id": "C:\\Users\\ASUS\\Desktop\\Hesabist\\LiquorStoreFinalProject\\wwwroot\\photos\\WhatsApp Image 2023-10-16 at 22.55.39_44200210.jpg",
