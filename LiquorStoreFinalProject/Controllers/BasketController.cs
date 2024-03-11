@@ -97,8 +97,8 @@ namespace LiquorStoreFinalProject.Controllers
                 totalPrice += item.Count * product.Price;
                 
             }
-            byte[] totalPriceBytes = BitConverter.GetBytes(decimal.ToDouble(totalPrice)); // Decimal veriyi double'a dönüştürüp byte dizisi olarak sakla
-            HttpContext.Session.Set("TotalPrice", totalPriceBytes);
+            ViewBag.TotalPrice = (decimal.ToDouble(totalPrice)).ToString(); // Decimal veriyi double'a dönüştürüp byte dizisi olarak sakla
+            
 
             byte[] totalDiscountsBytes = BitConverter.GetBytes(decimal.ToDouble(totalDiscount)); // Decimal veriyi double'a dönüştürüp byte dizisi olarak sakla
             HttpContext.Session.Set("TotalDiscount", totalDiscountsBytes);
