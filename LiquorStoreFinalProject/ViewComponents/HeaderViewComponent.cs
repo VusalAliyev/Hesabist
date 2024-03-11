@@ -15,7 +15,16 @@ namespace LiquorStoreFinalProject.ViewComponents
         }
         public IViewComponentResult Invoke()
         {
+
+            string cookies = Request.Cookies["basket"];
+            if (cookies != null)
+            {
+                List<BasketVM> basketProducts = JsonConvert.DeserializeObject<List<BasketVM>>(cookies);
+                int totalCount = Convert.ToInt32(basketProducts.Sum(p=>p.Count));
+                ViewBag.BasketCount=totalCount;
+            }
             return View();
+
         }
     }
 }
