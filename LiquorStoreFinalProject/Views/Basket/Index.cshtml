@@ -12,6 +12,117 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Basket</title>
     <link rel="stylesheet" href="~/assets/css/styleBasket.css">
+    <style>
+        .popup {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            overflow: auto;
+        }
+
+        .popup-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 300px;
+            text-align: center;
+            position: relative;
+        }
+
+        .close {
+            color: #aaa;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+            .close:hover,
+            .close:focus {
+                color: black;
+                text-decoration: none;
+            }
+
+        .code-container {
+            margin-bottom: 20px;
+        }
+
+        .code-label {
+            font-size: 16px;
+            margin-bottom: 5px;
+        }
+
+        .code-wrapper {
+            display: flex;
+            justify-content: space-between;
+            border: 2px solid #f0ad4e;
+            border-radius: 5px;
+            padding: 5px;
+        }
+
+        .random-code {
+            font-size: 20px;
+        }
+
+        .copy-button {
+            background-color: #f0ad4e;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 5px 10px;
+            margin-left: 5px;
+            cursor: pointer;
+        }
+
+            .copy-button:hover {
+                background-color: #eea236;
+            }
+
+        #acceptButton {
+            display: block;
+            margin: 20px auto 0;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+      
+        .center-bottom {
+            position: absolute;
+            bottom: 1px; /* İstediğiniz boşluk için uygun değeri ayarlayın */
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .modern-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+            .modern-button:hover {
+                background-color: #45a049;
+            }
+
+
+    </style>
 </head>
 
 <body>
@@ -85,11 +196,149 @@
                 </div>
 
                 <div class="summary-checkout">
-                    <button class="checkout-cta">Sifarişi Tamamla</button>
+                    <button class="checkout-cta" id="checkoutButton">Sifarişi Tamamla</button>
                 </div>
+                <div class="popup" id="popup">
+                    <div class="popup-content">
+                        <span class="close" id="close">&times;</span>
+                        <div class="code-container">
+                            <p class="code-label">Sifariş Kodu</p>
+                            <div class="code-wrapper">
+                                <span id="randomCode" class="random-code"></span>
+                                <button id="copyButton" class="copy-button">Kopyala</button>
+                            </div>
+                        </div>
+                        <div class="center-bottom">
+                            <button id="acceptButton" class="modern-button">Accept</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="popup" id="secondPopup">
+                    <div class="popup-content">
+                        <span class="close" id="closeSecond">&times;</span>
+                        <div class="content">
+                            <p>Zəhmət olmasa sifarişə Whatsap üzərindən davam edin.</p>
+                            <p>Kopyaladığınız kodu Mesaj olaraq bizə göndərin.</p>
+                            <a href="whatsapp://send?phone=+994504258988&text=Merhaba" class="whatsapp-button" style="background-color: green; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block;">
+                                WhatsApp'a Yönlendir
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+
             </div>
         </aside>
     </main>
 </body>
+
+<script>
+    document.getElementById("checkoutButton").onclick = function () {
+        var popup = document.getElementById("popup");
+        var randomCode = generateRandomCode();
+        document.getElementById("randomCode").innerText = randomCode;
+        popup.style.display = "block";
+    }
+
+    document.getElementById("close").onclick = function () {
+        document.getElementById("popup").style.display = "none";
+    }
+
+    window.onclick = function (event) {
+        if (event.target == document.getElementById("popup")) {
+            document.getElementById("popup").style.display = "none";
+        }
+    }
+
+    function generateRandomCode() {
+        var result = '';
+        var characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+        var charactersLength = characters.length;
+        for (var i = 0; i < 8; i++) {
+            result += characters.charAt(Math.floor(Math.random() * charactersLength));
+        }
+        return result;
+    }
+
+    document.getElementById("copyButton").onclick = function () {
+        var randomCode = document.getElementById("randomCode").innerText;
+        var tempInput = document.createElement("input");
+        tempInput.value = randomCode;
+        document.body.appendChild(tempInput);
+        tempInput.select();
+        document.execCommand("copy");
+        document.body.removeChild(tempInput);
+        alert("Kod kopyalandı: " + randomCode);
+    }
+
+</script>
+<script>
+    document.getElementById("acceptButton").addEventListener("click", function () {
+        document.getElementById("popup").style.display = "none";
+
+        
+        document.getElementById("secondPopup").style.display = "block";
+        var randomCode = document.getElementById("randomCode").innerText;
+        var totalPrice = document.getElementById("basket-total").innerText;
+        var products = [];
+
+        var productElements = document.querySelectorAll(".basket-product");
+        productElements.forEach(function (productElement) {
+            var productName = productElement.querySelector(".product-details h1 strong").innerText;
+            var productQuantity = productElement.querySelector(".quantity-field").value;
+            var productPrice = productElement.querySelector(".price").innerText;
+           
+            var product = {
+                Name: productName,
+                Quantity: productQuantity,
+                Price: productPrice
+            };
+
+            products.push(product);
+        });
+        console.log(products);
+        console.log(totalPrice);
+        console.log(randomCode);
+
+        var requestData = {
+            RandomCode: randomCode,
+            Products: products,
+            TotalPrice: totalPrice
+
+        };
+
+        // Quantity ve Price'i sayısal türe dönüştürün
+        requestData.Products.forEach(function (product) {
+            product.Quantity = parseInt(product.Quantity);
+            product.Price = parseFloat(product.Price);
+        });
+
+        console.log(requestData);
+        $.ajax({
+            url: "/Order/CompleteOrder",
+            type: "POST",
+            contentType: "application/json",
+            data: JSON.stringify(requestData),
+            success: function (response) {
+                console.log("Response" + response);
+                console.log("İstek başarıyla tamamlandı.");
+            },
+            error: function (xhr, status, error) {
+                console.error("İstek hatayla sonuçlandı:", error);
+            }
+        });
+
+        document.getElementById("closeSecond").addEventListener("click", function () {
+            document.getElementById("secondPopup").style.display = "none";
+        });
+
+    });
+
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
 
 </html>
