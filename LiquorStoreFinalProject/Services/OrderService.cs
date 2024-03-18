@@ -1,4 +1,5 @@
-﻿using LiquorStoreFinalProject.Data;
+﻿using LiquorStoreFinalProject.Controllers;
+using LiquorStoreFinalProject.Data;
 using LiquorStoreFinalProject.Models;
 using LiquorStoreFinalProject.Services.Interfaces;
 using LiquorStoreFinalProject.ViewModels;
@@ -23,8 +24,8 @@ namespace LiquorStoreFinalProject.Services
                 Content = orderDetailsViewModel.Content,
                 TotalPrice = orderDetailsViewModel.TotalPrice
             };
-             _context.Orders.Add(order);
-             _context.SaveChanges();
+            _context.Orders.Add(order);
+            _context.SaveChanges();
         }
 
         public async Task DeleteAsync(int id)
@@ -34,6 +35,39 @@ namespace LiquorStoreFinalProject.Services
             _context.Orders.Remove(deletedOrder);
 
             _context.SaveChanges();
+        }
+
+
+        public async Task<GetPaginatedOrdersVM> GetOrdersAsync(int page, string searchTerm = null)
+        {
+            var pageResults = 6f;
+
+            IQueryable<Order> ordersQuery = _context.Orders;
+            if (!string.IsNullOrEmpty(searchTerm))
+            {
+                ordersQuery = ordersQuery.Where(o => o.Content.Contains(searchTerm));
+            }
+
+            var pageCount = Math.Ceiling(ordersQuery.Count() / pageResults);
+
+            var orders = await ordersQuery
+                .Select(p => new Order
+                {
+                    Code = p.Code,
+                    Content = p.Content,
+                    TotalPrice = p.TotalPrice,
+                    CreatedDate = p.CreatedDate
+                })
+                .Skip((page - 1) * (int)pageResults)
+                .Take((int)pageResults)
+                .ToListAsync();
+
+            return new GetPaginatedOrdersVM
+            {
+                CurrentPage = page,
+                Orders = orders,
+                Pages = (int)pageCount
+            };
         }
     }
 }
